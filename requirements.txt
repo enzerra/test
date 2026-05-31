@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy<2.0.0
+scipy
+plotly
+scikit-learn
+openpyxl
+tensorflow-cpu
